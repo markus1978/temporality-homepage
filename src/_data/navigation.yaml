@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: Members
+    url: "/"
+  - text: Next Meeting
+    url: "/"
+  - text: Past Meetings
     url: "/blog"
+  - text: Publications
+    url: "/"
