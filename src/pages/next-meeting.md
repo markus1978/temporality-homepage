@@ -1,7 +1,7 @@
 ---
 title: Next meeting
 ---
-## More Cythno et vacca sententia
+## Our first meeting will be in Lüneburg!
 
 Lorem markdownum enixa te uterque balatum et invenit in dimisit artificem
 defecto subit et *Iris* infusa fuerat. Committitur ait sentiet fessos bimari,
