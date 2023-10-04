@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="container max-w-3xl mt-6 px-6">
+
+    <h1 class="font-bold text-5xl">{{title}}</h1>
+
+    <div class="my-2">{{date | readableDate}}, {{location | safe}}</div>
+
+    <div class="prose max-w-none">
+        {{ content | safe }}
+    </div>
+
+    <div class="grid grid-cols-2 gap-2 mt-10">
+        {% for image in gallery %}
+            <div>
+                <img class="h-auto max-w-full rounded-lg" src="{{ image }}" alt="">
+            </div>
+        {% endfor %}
+    </div>
+
+</div>

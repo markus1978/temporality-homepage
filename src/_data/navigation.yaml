@@ -1,10 +1,9 @@
----
 items:
+  - text: Home
+    url: "/"
   - text: Members
-    url: "/"
+    url: "/pages/members"
   - text: Next Meeting
-    url: "/"
-  - text: Past Meetings
-    url: "/blog"
+    url: "/pages/next-meeting"
   - text: Publications
-    url: "/"
+    url: "/pages/publications"

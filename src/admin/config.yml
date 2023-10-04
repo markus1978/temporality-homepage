@@ -10,24 +10,87 @@ local_backend: true
 
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "src/posts"
+  - label: Meeting
+    name: meeting
+    folder: src/meetings
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Date
+        name: date
+        widget: datetime
+        required: true
+      - label: Location
+        name: location
+        widget: string
+        required: true
+      - label: Abstract
+        name: abstract
+        widget: markdown
+      - label: Body
+        name: body
+        widget: markdown
+        required: false
+      - label: Preview image
+        name: preview
+        widget: image
+        required: false
+      - label: Gallery
+        name: gallery
+        widget: list
+        required: false
+        field:
+          label: Image
+          name: image
+          widget: image
+  - label: Pages
+    name: pages
+    files:
+      - label: Home
+        name: home
+        file: src/index.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - label: Members
+        name: members
+        file: src/pages/members.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - label: Next meeting
+        name: next-meeting
+        file: src/pages/next-meeting.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - label: Publications
+        name: publications
+        file: src/pages/publications.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
   - label: "Settings"
     name: "settings"
     editor:
@@ -45,22 +108,3 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-      - label: "Meta Settings"
-        name: "settings"
-        file: "src/_data/settings.yaml"
-        fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: URL, name: url, widget: string }

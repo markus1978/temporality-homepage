@@ -55,6 +55,19 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  /* Markdown-It 'markdownify' filter
+    source: BradCoffield/kidlitconnection@e42a6de)
+  */
+  const md = require("markdown-it")({
+    html: true,
+    linkify: true,
+    typographer: true,
+  });
+
+  eleventyConfig.addFilter("markdownify", (markdownString) =>
+    md.render(markdownString)
+  );
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {
