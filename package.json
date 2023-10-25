@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.2",
+    "eleventy-plugin-svg-contents": "^0.7.0",
     "postcss": "^8.4.5"
   }
 }

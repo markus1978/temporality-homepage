@@ -1,6 +1,4 @@
 items:
-  - text: Home
-    url: "/"
   - text: Members
     url: "/pages/members"
   - text: Next Meeting

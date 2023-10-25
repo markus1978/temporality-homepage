@@ -91,11 +91,56 @@ collections:
           - label: Body
             name: body
             widget: markdown
+      - label: Contact
+        name: contact
+        file: src/pages/contact.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
   - label: "Settings"
     name: "settings"
     editor:
       preview: false
     files:
+      - label: "Settings"
+        name: "settings"
+        file: "src/_data/settings.json"
+        fields:
+          - label: Twitter
+            name: twitter
+            widget: string
+          - label: Contact email
+            name: contact
+            widget: string
+          - label: GitHub URL
+            name: github
+            widget: string
+          - label: Color name
+            hint: 'You can use color names and values from https://tailwindcss.com/docs/customizing-colors.'
+            name: colorName
+            widget: string
+          - label: Color value
+            name: colorValue
+            hint: 'You can use color names and values from https://tailwindcss.com/docs/customizing-colors.'
+            widget: number
+          - label: Logo
+            name: logo
+            widget: select
+            options:
+              - label: Two circles with straight arrow
+                value: straight
+              - label: Two circles with curved arrow
+                value: curved
+              - label: Sharp triangle shaped arrow
+                value: triangular
+              - label: Evolving organization in separated steps
+                value: steps
+              - label: Evolving organization in overlapping steps
+                value: evolving
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"

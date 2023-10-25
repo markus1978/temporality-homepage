@@ -4,16 +4,30 @@
 
 /*Your Custom CSS Goes here*/
 
+body {
+  @apply font-sans
+}
+
+nav ul {
+  margin-right: -1.75rem;
+}
+
 h1 {
-  @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
+  @apply text-4xl mb-3 lg:text-7xl;
 }
 
 h3 {
   @apply text-2xl font-bold mb-3;
 }
 
-.container {
-  max-width: 900px;
+svg {
+  width: inherit;
 }
 
+path {
+  fill: theme('colors.primary') !important;
+}
 
+* {
+  shape-rendering: auto;
+}

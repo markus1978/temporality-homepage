@@ -2,8 +2,11 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const htmlmin = require("html-minifier");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const svgContents = require("eleventy-plugin-svg-contents");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(svgContents);
+
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
