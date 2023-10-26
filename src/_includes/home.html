@@ -3,36 +3,36 @@ layout: default
 ---
 <div class="h-full container mx-auto max-w-screen-lg px-4 py-6 lg:pt-32 lg:pb-16">
     <h1 class="mb-10 text-center">
-      Welcome to
-      <strong class="text-primary tracking-[-0.025em]">
-        {{title}}
-      </strong>
+        Welcome to
+        <strong class="bg-clip-text text-transparent bg-gradient-to-r from-secondary to-primary">
+            {{title}}
+        </strong>
     </h1>
 
     <p>
-      {{content | safe}}
+        {{content | safe}}
     </p>
 
     <div class="w-full grid grid-cols-1 lg:grid-cols-3 gap-4 mt-16">
         {% set meetingslist = collections.meeting %}
 
         {% for item in meetingslist | reverse %}
-            <a href="{{item.url}}" class="border rounded border-gray-200 hover:border-primary hover:text-primary">
-                <div class="m-4">
-                    <h3>{{item.data.title}}</h3>
+        <a href="{{item.url}}" class="border rounded border-gray-200 hover:border-primary hover:text-primary">
+            <div class="m-4">
+                <h3>{{item.data.title}}</h3>
+            </div>
+            <img class="w-full" src="{{item.data.preview}}">
+            <div class="m-4">
+                <div class="my-2 flex">
+                    <span class="text-grey-400">{{item.data.date | readableDate }}</span>
+                    <span class="text-grey-400 flex-1 text-right">{{item.data.location | safe }}</span>
                 </div>
-                <img class="w-full" src="{{item.data.preview}}">
-                <div class="m-4">
-                    <div class="my-2 flex">
-                        <span class="text-grey-400">{{item.data.date | readableDate }}</span>
-                        <span class="text-grey-400 flex-1 text-right">{{item.data.location | safe }}</span>
-                    </div>
-                    <div class="prose max-w-none">
-                      {{item.data.abstract | markdownify | safe}}
-                    </div>
+                <div class="prose max-w-none">
+                    {{item.data.abstract | markdownify | safe}}
                 </div>
-            </a>
+            </div>
+        </a>
         {% endfor %}
 
     </div>
-  </div>
+</div>

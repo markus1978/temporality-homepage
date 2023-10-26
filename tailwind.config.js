@@ -9,10 +9,12 @@ module.exports = {
       serif: ["'Source Serif 4'", 'serif'],
     },
     colors: {
+      ...colors,
       text: colors.black,
       textprimary: colors.white,
-      primary: colors[settings.colorName]?.[settings.colorValue] || colors.violet[600],
-      grey: colors.gray
+      primary: settings.primary || colors.violet[600],
+      secondary: settings.secondary || colors.violet[600],
+      grey: colors.gray,
     },
     container: {
       center: true,

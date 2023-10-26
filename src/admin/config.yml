@@ -119,28 +119,30 @@ collections:
           - label: GitHub URL
             name: github
             widget: string
-          - label: Color name
-            hint: 'You can use color names and values from https://tailwindcss.com/docs/customizing-colors.'
-            name: colorName
+          - label: Primary color
+            hint: 'You can use colors from https://tailwindcss.com/docs/customizing-colors.'
+            name: primary
             widget: string
-          - label: Color value
-            name: colorValue
-            hint: 'You can use color names and values from https://tailwindcss.com/docs/customizing-colors.'
-            widget: number
+          - label: Secondary color
+            hint: 'You can use colors from https://tailwindcss.com/docs/customizing-colors.'
+            name: secondary
+            widget: string
           - label: Logo
             name: logo
             widget: select
             options:
+              - label: Two circles with straight arrow and gradient
+                value: straight.png
               - label: Two circles with straight arrow
-                value: straight
+                value: straight.svg
               - label: Two circles with curved arrow
-                value: curved
+                value: curved.svg
               - label: Sharp triangle shaped arrow
-                value: triangular
+                value: triangular.svg
               - label: Evolving organization in separated steps
-                value: steps
+                value: steps.svg
               - label: Evolving organization in overlapping steps
-                value: evolving
+                value: evolving.svg
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"

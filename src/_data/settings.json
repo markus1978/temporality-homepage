@@ -2,7 +2,7 @@
   "url": "https://temporality-homepage.github-pages.com/",
   "github": "https://github.com/markus1978/temporality-homepage",
   "twitter": "#",
-  "logo": "evolving",
-  "colorValue": 700,
-  "colorName": "blue"
+  "logo": "straight.png",
+  "primary": "#0ea5e9",
+  "secondary": "#ec4899"
 }
