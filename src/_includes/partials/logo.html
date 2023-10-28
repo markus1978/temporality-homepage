@@ -4,7 +4,7 @@
         {{ ["/src/static/img/", settings.logo ] | join | svgContents | safe }}
     </div>
     {% else %}
-    <img style="height: 40px" class="mr-4" src="{{ ['/static/img/', settings.logo ] | join }}"/>
+    <img style="height: 40px" class="mr-4" src="{{ ['/static/img/', settings.logo ] | join }}" alt="temporality logo"/>
     {% endif %}
     <span class="self-center text-2xl font-semibold whitespace-nowrap text-primary">Temporality</span>
 </a>

@@ -1,8 +1,9 @@
 {
-  "url": "https://temporality-homepage.github-pages.com/",
+  "description": "The homepage for the DFG (Deutsche Forschungs Gemeinschaft) Network (Netzwerk) temporality.",
+  "url": "https://temporality.org/",
   "github": "https://github.com/markus1978/temporality-homepage",
-  "twitter": "#",
+  "twitter": null,
   "logo": "straight.png",
-  "primary": "#0ea5e9",
+  "primary": "#0284c7",
   "secondary": "#ec4899"
 }

@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 const htmlmin = require("html-minifier");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const svgContents = require("eleventy-plugin-svg-contents");
+const sharp = require('sharp');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(svgContents);
@@ -20,10 +21,7 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  // Syntax Highlighting for Code blocks
-  // eleventyConfig.addPlugin(syntaxHighlight);
-
-  // eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
@@ -33,9 +31,20 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./src/admin/config.yml": "./admin/config.yml",
     "./node_modules/alpinejs/dist/cdn.min.js": "./static/js/alpine.js",
-    "./node_modules/prismjs/themes/prism-tomorrow.css":
-      "./static/css/prism-tomorrow.css",
   });
+
+  for (let ext of ["jpg", "jpeg"]) {
+    eleventyConfig.addTemplateFormats(ext);
+    eleventyConfig.addExtension(ext, {
+      compile: async (inputContent, inputPath) => {
+        let output = await sharp(inputPath).resize(1000).toBuffer();
+        return async () => {
+          return output;
+        };
+      },
+      outputFileExtension: "jpg"
+    });
+  }
 
   // Copy Image Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/img");
@@ -58,9 +67,6 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  /* Markdown-It 'markdownify' filter
-    source: BradCoffield/kidlitconnection@e42a6de)
-  */
   const md = require("markdown-it")({
     html: true,
     linkify: true,

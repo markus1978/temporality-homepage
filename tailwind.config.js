@@ -14,7 +14,7 @@ module.exports = {
       textprimary: colors.white,
       primary: settings.primary || colors.violet[600],
       secondary: settings.secondary || colors.violet[600],
-      grey: colors.gray,
+      grey: colors.gray[500],
     },
     container: {
       center: true,

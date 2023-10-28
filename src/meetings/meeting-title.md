@@ -1,13 +1,14 @@
 ---
+hide: false
 title: Meeting title
 date: 2023-10-10T17:40:03.123Z
 location: Location
 abstract: T﻿he meeting abstract.
-preview: https://images.unsplash.com/photo-1632062549850-44a0a6eede16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cHJldmlldyUyMGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60
+preview: /static/img/meeting-1.jpg
 gallery:
-  - https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bWVldGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60
-  - https://plus.unsplash.com/premium_photo-1665203421659-09089ede4ffa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWVldGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60
-  - https://images.unsplash.com/photo-1573164574572-cb89e39749b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG1lZXRpbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60
+  - /static/img/meeting-1.jpg
+  - /static/img/meeting-1.jpg
+  - /static/img/meeting-1.jpg
 ---
 The meeting content.
 

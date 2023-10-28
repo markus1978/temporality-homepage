@@ -17,21 +17,23 @@ layout: default
         {% set meetingslist = collections.meeting %}
 
         {% for item in meetingslist | reverse %}
-        <a href="{{item.url}}" class="border rounded border-gray-200 hover:border-primary hover:text-primary">
-            <div class="m-4">
-                <h3>{{item.data.title}}</h3>
+        {% if not item.data.hide %}
+        <a href="{{item.url}}" class="border rounded border-black hover:border-primary hover:text-primary">
+            <div class="m-4 text-2xl font-bold mb-3">
+                {{item.data.title}}
             </div>
-            <img class="w-full" src="{{item.data.preview}}">
+            <img class="w-full" src="{{item.data.preview}}" alt="meeting image">
             <div class="m-4">
                 <div class="my-2 flex">
-                    <span class="text-grey-400">{{item.data.date | readableDate }}</span>
-                    <span class="text-grey-400 flex-1 text-right">{{item.data.location | safe }}</span>
+                    <span class="text-grey">{{item.data.date | readableDate }}</span>
+                    <span class="text-grey flex-1 text-right">{{item.data.location | safe }}</span>
                 </div>
                 <div class="prose max-w-none">
                     {{item.data.abstract | markdownify | safe}}
                 </div>
             </div>
         </a>
+        {% endif %}
         {% endfor %}
 
     </div>

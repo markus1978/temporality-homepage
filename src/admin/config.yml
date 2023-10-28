@@ -17,6 +17,10 @@ collections:
     editor:
       preview: true
     fields:
+      - label: Hide
+        name: hide
+        widget: boolean
+        required: true
       - label: Title
         name: title
         widget: string
@@ -54,6 +58,16 @@ collections:
       - label: Home
         name: home
         file: src/index.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - label: About
+        name: about
+        file: src/pages/about.md
         fields:
           - label: Title
             name: title
@@ -112,9 +126,6 @@ collections:
         fields:
           - label: Twitter
             name: twitter
-            widget: string
-          - label: Contact email
-            name: contact
             widget: string
           - label: GitHub URL
             name: github
