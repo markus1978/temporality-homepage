@@ -1,9 +1,9 @@
 items:
   - text: About
-    url: "/pages/about"
+    url: /pages/about
   - text: Members
-    url: "/pages/members"
+    url: /pages/members
   - text: Next Meeting
-    url: "/pages/next-meeting"
+    url: /meetings/meeting-kick-off
   - text: Publications
-    url: "/pages/publications"
+    url: /pages/publications

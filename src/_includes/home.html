@@ -13,16 +13,17 @@ layout: default
         {{content | safe}}
     </p>
 
+    {% set meetingslist = collections.meeting %}
     <div class="w-full grid grid-cols-1 lg:grid-cols-3 gap-4 mt-16">
-        {% set meetingslist = collections.meeting %}
-
-        {% for item in meetingslist | reverse %}
+        {% for item in meetingslist %}
         {% if not item.data.hide %}
         <a href="{{item.url}}" class="border rounded border-black hover:border-primary hover:text-primary">
-            <div class="m-4 text-2xl font-bold mb-3">
+            <div class="m-4 text-2xl font-bold mb-3 h-16">
                 {{item.data.title}}
             </div>
-            <img class="w-full" src="{{item.data.preview}}" alt="meeting image">
+            {% if item.data.preview %}
+                <img class="w-full object-cover h-48" src="{{item.data.preview}}" alt="meeting image">
+            {% endif %}
             <div class="m-4">
                 <div class="my-2 flex">
                     <span class="text-grey">{{item.data.date | readableDate }}</span>

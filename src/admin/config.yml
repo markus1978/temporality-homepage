@@ -20,7 +20,8 @@ collections:
       - label: Hide
         name: hide
         widget: boolean
-        required: true
+        required: false
+        default: false
       - label: Title
         name: title
         widget: string
@@ -32,6 +33,8 @@ collections:
       - label: End data (optional)
         name: endDate
         widget: datetime
+        required: false
+        default: null
       - label: Location
         name: location
         widget: string
