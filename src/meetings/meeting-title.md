@@ -11,66 +11,102 @@ abstract: >-
 
 
   K﻿eynote speakers: Raghu Garund, Stefanie Gustafsson, Matthias Wenzel
-preview: /static/img/meeting-1.jpg
+preview: /static/img/campusmap.png
 gallery:
   - /static/img/meeting-1.jpg
   - /static/img/meeting-1.jpg
   - /static/img/meeting-1.jpg
 ---
+1st DFG Network Meeting 
+
+A Temporal Perspective on Disruptive Innovation Processes
+
+December 11 & 12, 2023
+
+Organizers: Stefanie Habersang & Sarah Stanske  
+Support: Violetta Graf 
+
+ Leuphana University of Lüneburg,
+Universitätsallee 1
+21335 Lüneburg 
+
+40.704 (Central Building) 
+
+Guests
+Annika Busse, Deputy CIO, Freie und Hansestadt Hamburg
+Raghu Garud, Pennsylvania State University
+Stefanie Gustafsson, University of Bath
+Matthias Wenzel, Leuphana University Lüneburg
 
 
-## More Cythno et vacca sententia
+Day 0 (Sunday, December 10th, 2023) 
+7pm - to open end
+Christmas market get-together (Lüneburg City)
+ 
 
-Lorem markdownum enixa te uterque balatum et invenit in dimisit artificem
-defecto subit et *Iris* infusa fuerat. Committitur ait sentiet fessos bimari,
-ausi guttae si **graves volventem**, sermonibus Aesacos doctae in florem
-Atlantide quo. Et redigar iterum. Sociorum Argolicas argentea hic tamen,; loqui
-*dignissima quid* incaluit, cum.
+ Day 1 (Monday, December 11th, 2023, Lüneburg – 40.704 Central Building) 
 
-1. Verba vidit quin ruit nec praecordia Hymenaeus
-2. Tamen sua Minyis
-3. Est omnia nec profuso
-4. Sanguine sine
-5. Quantum nitidum Lunae
 
-## Salute securus nec in exclamant tyranni potes
+09:00 - 09:15 am:	Coffee Talk and Arrival 
 
-Da timeo *super*, nam forma tibi nais umida emissi formatur **iter** male sub.
-Minor [quoque arva scitis](http://ausa-vertit.com/) tangor terris, detorquet
-dabitis, et nostraque di ante. Et poni ulciscitur curvos guttura!
+09:15 - 09:45 am:	Kick-Off DFG Network
 
-1. Invenit ventis tertius turba
-2. Et erat concilium fidesque idem mei qui
-3. Quem orbem moderatus magorum contendisse et pervia
+09:45 - 11:00 am:	Key Note Raghu Garud + Discussion
+Topic: A Temporal Perspective on Disruptive Innovation Processes: A Research Agenda
 
-## Etiam mandataque laudatis
+11:00 - 11:30 am:	Coffee Break
 
-[Dubiaque reliqui](http://qui-nisi.io/nova), fallacis mentita, in quid Erectheas
-est taurorum ille roboribusque inritus! Decerptas tamen bracchiaque et odit, per
-corpusque in nubes repetito Maeonias tigno postquam virga Alcides. Vulnere **sed
-hostibus** paulatim cornu, nunc tibi Amuli agros illa, ibat.
+11:30 - 01:15 pm:	Group Work I - Pitch Perfect: Learn about the work of others
+			Short pitch of own research (max.5 minutes)
 
-Visus is omnes illa creatum, adiit mihi, urna tu vulnere, male spatium habet
-mendacia! Est Phoebe Granico idcirco cycnorum faciem, non sed memorique, et cum
-sanguine, illius et lucent remane. Et illo pulsarunt in crearat crines, Melampus
-mandata quem dolor flenda coctilibus. Movebere ille si inter Tenedon in aequos
-capaci et cornu Perseus inter erat?
+01:15 - 02:00 pm:	Lunch @ Klippo (Central Building)
 
-## Cursus mihi igitur latrator causa introitu vetat
+02:00 - 03:15 pm:	Key Note Annika Busse + Discussion 
+			Topic: Disruption in a Public Context
 
-Dicere inlaesos, eris lacerae ardet curru vidit inmemor mugitu. Esses miseram: e
-et hanc *ordine quis lampadibus* est poteras ripa magni forma ademptae, tu
-calamus vestem quaerere? Discedere Stygio quattuor. Myrrha tu pars vix, dubita
-mihi cum copia Clymeni molimine; et. Ferro vulneris dixit, utraque ne vident;
-sua procul digna.
+03:15 - 03:30 pm:	Coffee Break
 
-Honoratas gemellos Achelous liquitur talia stabat loco *poterisne penetratque
-eundo* noverit morbo est, ad pudore recurva. Perseus supplice [adhibere
-teloque](http://flumen.org/), sed quae! Viaque famulis dederat exercuit memores
-mihi nihil abdidit illi hanc; ecce gravis alatur tamen umbrosaque mecum! Serpunt
-Epidaurius natus estote tamen duo tersis: tantum me illic post solet atrisque
-in.
+03:30 - 05:00 pm:	Group Work: World Café centered on the three lenses
 
-Nec ore, portant responsaque arbore adhibendus percutit tibi, simulacra
-venitque: non vel flere cum roboris natamque Mavortia. Deforme humano hactenus
-non cuncta ad monimenta: *aurea felix stramine* nubemque nemo.
+07:00 - 10:00 pm:	Dinner @Mälzer Brau- & Tafelhaus (Heiligengeiststr. 43, 21335   
+                                   Lüneburg)
+
+
+Day 2 (Tuesday, December 12th, 2023, Lüneburg – 40.704 Central Building) 
+
+09:00 - 10:15am:	Key Note Matthias Wenzel		
+Topic: Futures and Disruptive Innovation Processes
+
+10:15 - 10:30 am:	Coffee Break
+
+10:30 - 11:45 am: 	Keynote Stefanie Gustafsson + Discussion
+Topic: Studying Disruptive Innovation Processes from a Temporal Perspective : Methodological Considerations 
+
+11:45 - 01:30 pm:	Group Work III: Community Engagement 
+Suggestions for output (symposia, special issue...)
+
+01:30 - 02:15 pm:	Closing and Outlook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Campus Map
+	
+Leuphana University of Lüneburg,
+Universitätsallee 1
