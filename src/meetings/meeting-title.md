@@ -17,33 +17,30 @@ gallery:
 ---
 1st DFG Network Meeting 
 
-A Temporal Perspective on Disruptive Innovation Processes
+**A Temporal Perspective on Disruptive Innovation Processes**
 
 December 11 & 12, 2023
 
-Organizers: Stefanie Habersang & Sarah Stanske  
+Organizers: Stefanie Habersang & Sarah Stanske\
 Support: Violetta Graf 
 
- Leuphana University of Lüneburg,
+Leuphana University of Lüneburg,
 Universitätsallee 1
 21335 Lüneburg 
 
 40.704 (Central Building) 
 
-Guests
+**Guests**
 Annika Busse, Deputy CIO, Freie und Hansestadt Hamburg
 Raghu Garud, Pennsylvania State University
 Stefanie Gustafsson, University of Bath
 Matthias Wenzel, Leuphana University Lüneburg
 
-
-Day 0 (Sunday, December 10th, 2023) 
+**Day 0 (Sunday, December 10th, 2023)** 
 7pm - to open end
 Christmas market get-together (Lüneburg City)
- 
 
- Day 1 (Monday, December 11th, 2023, Lüneburg – 40.704 Central Building) 
-
+**Day 1 (Monday, December 11th, 2023, Lüneburg – 40.704 Central Building)** 
 
 09:00 - 09:15 am:	Coffee Talk and Arrival 
 
@@ -66,11 +63,10 @@ Topic: A Temporal Perspective on Disruptive Innovation Processes: A Research Age
 
 03:30 - 05:00 pm:	Group Work: World Café centered on the three lenses
 
-07:00 - 10:00 pm:	Dinner @Mälzer Brau- & Tafelhaus (Heiligengeiststr. 43, 21335   
+07:00 - 10:00 pm:	Dinner @Mälzer Brau- & Tafelhaus (Heiligengeiststr. 43, 21335\
                                    Lüneburg)
 
-
-Day 2 (Tuesday, December 12th, 2023, Lüneburg – 40.704 Central Building) 
+**Day 2 (Tuesday, December 12th, 2023, Lüneburg – 40.704 Central Building)** 
 
 09:00 - 10:15am:	Key Note Matthias Wenzel		
 Topic: Futures and Disruptive Innovation Processes
@@ -84,27 +80,3 @@ Topic: Studying Disruptive Innovation Processes from a Temporal Perspective : Me
 Suggestions for output (symposia, special issue...)
 
 01:30 - 02:15 pm:	Closing and Outlook
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Campus Map
-	
-Leuphana University of Lüneburg,
-Universitätsallee 1
