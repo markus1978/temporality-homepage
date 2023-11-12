@@ -1,16 +1,23 @@
 ---
 hide: false
-title: Meeting title
-date: 2023-10-10T17:40:03.123Z
-location: Location
-abstract: T﻿he meeting abstract.
+title: Kick-off
+date: 2023-12-10T18:40:03.123Z
+location: Leuphana University Lüneburg
+abstract: >-
+  This meeting will be centered on the question “How does our network understand
+  disruptive innovation processes from a temporal perspective?” The goal of this
+  meeting is to set the conceptual foundations and bring together different
+  understandings of temporality and disruptive innovation.
+
+
+  K﻿eynote speakers: Raghu Garund, Stefanie Gustafsson, Matthias Wenzel
 preview: /static/img/meeting-1.jpg
 gallery:
   - /static/img/meeting-1.jpg
   - /static/img/meeting-1.jpg
   - /static/img/meeting-1.jpg
 ---
-The meeting content.
+
 
 ## More Cythno et vacca sententia
 
