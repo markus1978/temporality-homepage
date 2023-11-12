@@ -12,4 +12,5 @@ abstract: "The second meeting will be held at Georg-August-University Göttinge
   actors engage in temporal brokering, navigate, and coordinate multiple,
   potentially conflicting temporal patterns and orientations in disruptive
   innovation processes?"
+preview: /static/img/göttingen_uni.jpg
 ---
