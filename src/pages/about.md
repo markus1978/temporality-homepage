@@ -1,54 +1,10 @@
 ---
 title: About Temporality
 ---
-## More Cythno et vacca sententia
+Recent debates in innovation research have foregrounded the idea of disruption, commonly defined as “fundamental changes that disturb or re-order the ways in which firms and their ecosystems operate” (Kumaraswamy, Garud & Ansari, 2018: 1025). Though often associated with the demise of individual incumbent organizations (Christensen, Raynow, & McDonald, 2015; Schumpeter, 1942/2010; Tripsas & Gavetti, 2000), disruption is pivotal for understanding innovation and society. In the wake of the climate crisis, deteriorating health conditions in many countries due to ongoing political conflicts, or blatant backlogs in educational systems, which were revealed during the Covid-19 pandemic, disruptive ideas are desperately needed (Grimes & Vogus, 2021; Zietsma, Ruebottom & Shantz, 2018). Disruptive innovation is thus not only central to organizational success and survival (Lengnick-Hall, 1992), but also to sustainable development on a global level (United Nations, 2022). It is therefore not surprising that research on disruptive innovation has mushroomed in the past decade with a focus on multiple perspectives and methods (Adner & Lieberman, 2021; Fraser & Ansari, 2021; Kumaraswamy et al., 2018).
 
-Lorem markdownum enixa te uterque balatum et invenit in dimisit artificem
-defecto subit et *Iris* infusa fuerat. Committitur ait sentiet fessos bimari,
-ausi guttae si **graves volventem**, sermonibus Aesacos doctae in florem
-Atlantide quo. Et redigar iterum. Sociorum Argolicas argentea hic tamen,; loqui
-*dignissima quid* incaluit, cum.
 
-1. Verba vidit quin ruit nec praecordia Hymenaeus
-2. Tamen sua Minyis
-3. Est omnia nec profuso
-4. Sanguine sine
-5. Quantum nitidum Lunae
+Common to but often only implicit in research on disruptive innovation is the dimension of time. Disruption per definitionem implies breaking with the past to embark on new trajectories into the future (Ansari, Garud & Kumaraswamy, 2016). Hence, time is a key challenge for disruptive innovators who need to draw on past experiences to create newness, while balancing future uncertain outcomes with present needs (Dodgson, Gann & Phillips, 2014). Especially the recent conceptualization of innovation as an ongoing, nonlinear process with no clear ending or starting points that unfolds within and across organizational boundaries (Garud, Gehman, Kumaraswamy, & Tuertscher, 2016; Garud et al., 2013; Kumaraswamy et al., 2018) begs fundamental questions regarding topics such as timing, speed, or frequency (Ellwood & Horner, 2020). Yet, the notion of time has still received relatively little explicit attention in innovation research in general and disruptive innovation in particular (Augustine et al., 2019; Ellwood & Horner, 2020; Feuls et al., 2020; Hernes, Feddersen & Schultz 2021). By not making time an explicit dimension of our theorizing on disruptive innovation though, we create distortions “similar to those experienced when seeing the earth as a two-dimensional map” (Bansal et al., 2021). More specifically, we might miss pivotal aspects leading to the emergence, development, and dissemination of disruption (Ansari & Garud, 2009; Garud & Karunakaran, 2018; Kumaraswamy et al., 2018). In turn, backgrounding the temporal peculiarities of disruption also prevents us from solving the “super wicked problem\[s]” that afflict today’s society, such as climate change (George, Howard- Grenville, Joshi & Tihanyi, 2016: 1886). Consequently, we suggest that the time is ripe to both synthesize the emerging and fragmented literature on time and disruptive innovation and to lay the ground for future research to gain a better understanding of the phenomenon of disruption per se. Therefore, the network seeks to bring together scholars who work at the intersection of disruption and temporality research to foster dialogue across these academic discourses.
 
-## Salute securus nec in exclamant tyranni potes
 
-Da timeo *super*, nam forma tibi nais umida emissi formatur **iter** male sub.
-Minor [quoque arva scitis](http://ausa-vertit.com/) tangor terris, detorquet
-dabitis, et nostraque di ante. Et poni ulciscitur curvos guttura!
-
-1. Invenit ventis tertius turba
-2. Et erat concilium fidesque idem mei qui
-3. Quem orbem moderatus magorum contendisse et pervia
-
-## Etiam mandataque laudatis
-
-[Dubiaque reliqui](http://qui-nisi.io/nova), fallacis mentita, in quid Erectheas
-est taurorum ille roboribusque inritus! Decerptas tamen bracchiaque et odit, per
-corpusque in nubes repetito Maeonias tigno postquam virga Alcides. Vulnere **sed
-hostibus** paulatim cornu, nunc tibi Amuli agros illa, ibat.
-
-Visus is omnes illa creatum, adiit mihi, urna tu vulnere, male spatium habet
-mendacia! Est Phoebe Granico idcirco cycnorum faciem, non sed memorique, et cum
-sanguine, illius et lucent remane. Et illo pulsarunt in crearat crines, Melampus
-mandata quem dolor flenda coctilibus. Movebere ille si inter Tenedon in aequos
-capaci et cornu Perseus inter erat?
-
-## Cursus mihi igitur latrator causa introitu vetat
-
-Dicere inlaesos, eris lacerae ardet curru vidit inmemor mugitu. Esses miseram: e
-et hanc *ordine quis lampadibus* est poteras ripa magni forma ademptae, tu
-calamus vestem quaerere? Discedere Stygio quattuor. Myrrha tu pars vix, dubita
-mihi cum copia Clymeni molimine; et. Ferro vulneris dixit, utraque ne vident;
-sua procul digna.
-
-Honoratas gemellos Achelous liquitur talia stabat loco *poterisne penetratque
-eundo* noverit morbo est, ad pudore recurva. Perseus supplice [adhibere
-teloque](http://flumen.org/), sed quae! Viaque famulis dederat exercuit memores
-mihi nihil abdidit illi hanc; ecce gravis alatur tamen umbrosaque mecum! Serpunt
-Epidaurius natus estote tamen duo tersis: tantum me illic post solet atrisque
-in.
+To consolidate knowledge and advance a temporal perspective on disruptive innovation, we build on three distinctive temporal lenses, namely (1) time-as-structure, (2) time-as-resource, and (3) time-as-process1. Such a differentiation is not only important for structuring our network meetings, but also for theoretical purposes. Proponents of each lens foreground different temporal concepts with different implications for research on disruptive innovation. By considering this diversity, we ensure to get a holistic overview of disruption and connect researchers from various research streams to foster innovative future endeavors. Thereby we pursue not only the comparison of different temporal lenses on disruption but also their combination.
