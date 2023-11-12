@@ -2,6 +2,7 @@
 hide: false
 title: Time as structure in disruptive innovation
 date: 2024-04-18T11:02:06.233Z
+endDate: 2024-04-19T15:33:37.224Z
 location: Göttingen
 abstract: "The second meeting will be held at Georg-August-University Göttingen
   and center around the time-as-structure lens in disruptive innovation with a
