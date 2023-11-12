@@ -1,8 +1,9 @@
 ---
 hide: false
 title: Kick-off
-date: 2023-12-10T18:40:03.123Z
-location: Leuphana University Lüneburg
+date: 2023-12-11T18:40:03.123Z
+endDate: 2023-12-12T12:33:21.536Z
+location: Lüneburg
 abstract: >-
   This meeting will be centered on the question “How does our network understand
   disruptive innovation processes from a temporal perspective?” The goal of this

@@ -29,6 +29,9 @@ collections:
         name: date
         widget: datetime
         required: true
+      - label: End data (optional)
+        name: endDate
+        widget: datetime
       - label: Location
         name: location
         widget: string

@@ -26,6 +26,9 @@ layout: default
             <div class="m-4">
                 <div class="my-2 flex">
                     <span class="text-grey">{{item.data.date | readableDate }}</span>
+                    {% if item.data.endDate %}
+                        <span class="text-grey">&nbsp;&ndash;&nbsp;{{item.data.endDate | readableDate }}</span>
+                    {% endif %}
                     <span class="text-grey flex-1 text-right">{{item.data.location | safe }}</span>
                 </div>
                 <div class="prose max-w-none">
