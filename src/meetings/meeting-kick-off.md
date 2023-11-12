@@ -12,7 +12,7 @@ abstract: >-
 
 
   K﻿eynote speakers: Raghu Garund, Stefanie Gustafsson, Matthias Wenzel
-preview: /static/img/campusmap.png
+preview: /static/img/leuphana.jpg
 gallery:
   - /static/img/campusmap.png
 ---
