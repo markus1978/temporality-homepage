@@ -13,9 +13,7 @@ abstract: >-
   K﻿eynote speakers: Raghu Garund, Stefanie Gustafsson, Matthias Wenzel
 preview: /static/img/campusmap.png
 gallery:
-  - /static/img/meeting-1.jpg
-  - /static/img/meeting-1.jpg
-  - /static/img/meeting-1.jpg
+  - /static/img/campusmap.png
 ---
 1st DFG Network Meeting 
 
