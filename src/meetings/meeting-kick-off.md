@@ -38,8 +38,6 @@ Universitätsallee 1
 * Stefanie Gustafsson, University of Bath
 * Matthias Wenzel, Leuphana University Lüneburg
 
-
-
 **Day 0 (Sunday, December 10th, 2023)** 
 7pm - to open end
 Christmas market get-together (Lüneburg City) - Brunnen am Sande
@@ -73,7 +71,7 @@ Christmas market get-together (Lüneburg City) - Brunnen am Sande
 * Summary/wrap-up (30 min) 
 
 07:00 - 10:00 pm:	Dinner @Mälzer Brau- & Tafelhaus (Heiligengeiststr. 43, 21335\
-                                   Lüneburg)
+                                   Lüneburg - *self-payment*)
 
 **Day 2 (Tuesday, December 12th, 2023, Lüneburg – 40.704 Central Building)** 
 
