@@ -1,6 +1,6 @@
 ---
 hide: false
-title: Kick-off
+title: Kick-off "Disruptive Innovation & Temporality"
 date: 2023-12-11T18:40:03.123Z
 endDate: 2023-12-12T12:33:21.536Z
 location: Lüneburg
@@ -11,7 +11,7 @@ abstract: >-
   understandings of temporality and disruptive innovation.
 
 
-  K﻿eynote speakers: Raghu Garund, Stefanie Gustafsson, Matthias Wenzel
+  K﻿eynote speakers: Raghu Garund, Annika Busse, Stefanie Gustafsson, Matthias Wenzel
 preview: /static/img/leuphana.jpg
 gallery:
   - /static/img/campusmap.png
@@ -29,17 +29,20 @@ Leuphana University of Lüneburg,
 Universitätsallee 1
 21335 Lüneburg 
 
-40.704 (Central Building) 
+40.704 (Leuphana Central Building) 
 
 **Guests**
-Annika Busse, Deputy CIO, Freie und Hansestadt Hamburg
-Raghu Garud, Pennsylvania State University
-Stefanie Gustafsson, University of Bath
-Matthias Wenzel, Leuphana University Lüneburg
+
+* Annika Busse, Deputy CIO, Freie und Hansestadt Hamburg
+* Raghu Garud, Pennsylvania State University
+* Stefanie Gustafsson, University of Bath
+* Matthias Wenzel, Leuphana University Lüneburg
+
+
 
 **Day 0 (Sunday, December 10th, 2023)** 
 7pm - to open end
-Christmas market get-together (Lüneburg City)
+Christmas market get-together (Lüneburg City) - Brunnen am Sande
 
 **Day 1 (Monday, December 11th, 2023, Lüneburg – 40.704 Central Building)** 
 
