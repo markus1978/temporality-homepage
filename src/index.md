@@ -1,6 +1,7 @@
 ---
 path: home
 layout: home
-title: Temporality
+title: "A Temporal Perspective on Disruptive Innovation Processes: A new Agenda
+  for Research and Practice"
 ---
 Disruptive innovation is an inherently temporal phenomenon as it implies the breaking with past structures to embark on new trajectories into the future. Yet, despite the multiple ways in which time influences actors' disruptive innovation processes, research has only started to acknowledge and scrutinize this interplay. The goal of this network is to (1) foster community building among early-career scholars who are interested in extending the burgeoning temporal perspective on disruptive innovation, (2) consolidate and synthesize existing knowledge on the juncture of disruption and time in order to put it on an international research agenda, (3) compose a special issue on “a temporal perspective on disruptive innovation”, and (4) enable connectivity to follow-up third-party funding. To achieve these goals, we plan to hold five meetings during which internationally renowned scholars and experienced practitioners offer different perspectives and provide feedback to network members' research projects. Apart from the kick-off and the closing meeting, we plan to have three meetings which are structured around different temporal lenses, which have emerged in the past years, namely time-as-structure, time-as-resource, and time-as-process. By juxtaposing different conceptual lenses, we aim to bring together different academic debates and provide an interesting avenue for future research.
