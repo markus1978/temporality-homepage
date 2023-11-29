@@ -48,7 +48,7 @@ Christmas market get-together (Lüneburg City)
 09:15 - 09:45 am:	Kick-Off DFG Network
 
 09:45 - 11:00 am:	Key Note Raghu Garud + Discussion
-Topic: A Temporal Perspective on Disruptive Innovation Processes: A Research Agenda
+“Setting the Stage: A Temporal Perspective on Disruptive Innovation Processes” 
 
 11:00 - 11:30 am:	Coffee Break
 
@@ -58,11 +58,16 @@ Topic: A Temporal Perspective on Disruptive Innovation Processes: A Research Age
 01:15 - 02:00 pm:	Lunch @ Klippo (Central Building)
 
 02:00 - 03:15 pm:	Key Note Annika Busse + Discussion 
-			Topic: Disruption in a Public Context
+“Approaching Future Government -How to Accelerate Disruptive Innovation in the Public Sector”  
 
 03:15 - 03:30 pm:	Coffee Break
 
-03:30 - 05:00 pm:	Group Work: World Café centered on the three lenses
+03:30 - 05:00 pm: Group Work: World Café: Development of research topics/questions 			centered on the three lenses (2x30 min) 
+
+* Time-as-resource moderated by Stefanie Habersang 
+* Time-as-structure moderated by Katharina Scheidgen 
+* Time-as-process moderated by Sarah Stanske 
+* Summary/wrap-up (30 min) 
 
 07:00 - 10:00 pm:	Dinner @Mälzer Brau- & Tafelhaus (Heiligengeiststr. 43, 21335\
                                    Lüneburg)
