@@ -12,5 +12,5 @@ abstract: "The third meeting will focus on the role oftime-as- resource that can
   focus will be on speed-based approaches to organizing disruptive innovation,
   such as innovation accelerators. We will also explore “slow innovation” as an
   alternative to the dominant regime of acceleration."
-preview: /static/img/12134d-hsg-st.-gallen-square_©dr-dürr_6_2022-09-20-144538_sxma.jpg
+preview: /static/img/8a48a14b-8d2e-4df0-94e7-9600184bd29f-3e78333a05faee52b34ddb72a71ebb20.jpeg
 ---
