@@ -5,5 +5,5 @@ items:
     url: /pages/members
   - text: Next Meeting
     url: /meetings/meeting-kick-off
-  - text: Publications
+  - text: Output
     url: /pages/publications
