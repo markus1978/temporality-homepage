@@ -5,10 +5,10 @@ date: 2023-12-11T18:40:03.123Z
 endDate: 2023-12-12T12:33:21.536Z
 location: Lüneburg
 abstract: >-
-  This meeting will be centered on the question “How does our network understand
-  disruptive innovation processes from a temporal perspective?” The goal of this
-  meeting is to set the conceptual foundations and bring together different
-  understandings of temporality and disruptive innovation.
+  * This meeting will be centered on the question “How does our network
+  understand disruptive innovation processes from a temporal perspective?” The
+  goal of this meeting is to set the conceptual foundations and bring together
+  different understandings of temporality and disruptive innovation.
 
 
   K﻿eynote speakers: Raghu Garund, Annika Busse, Stefanie Gustafsson, Matthias Wenzel
@@ -30,6 +30,15 @@ Universitätsallee 1
 21335 Lüneburg 
 
 40.704 (Leuphana Central Building) 
+
+
+
+**WLAN Account:**
+
+* Name: disruptive
+* Code: 0808
+
+
 
 **Guests**
 
