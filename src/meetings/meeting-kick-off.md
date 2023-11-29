@@ -11,7 +11,7 @@ abstract: >-
   understandings of temporality and disruptive innovation.
 
 
-  K﻿eynote speakers: Raghu Garund, Annika Busse, Stefanie Gustafsson, Matthias Wenzel
+  K﻿eynote speakers: Raghu Garud, Annika Busse, Stefanie Gustafsson, Matthias Wenzel
 preview: /static/img/leuphana.jpg
 gallery:
   - /static/img/campusmap.png
