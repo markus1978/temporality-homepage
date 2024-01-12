@@ -18,8 +18,8 @@ abstract: >-
 preview: /static/img/raghu.jpeg
 gallery:
   - /static/img/matthias.jpeg
-  - /static/img/whatsapp-image-2023-12-12-at-21.10.07.jpeg
   - /static/img/raghu.jpeg
+  - /static/img/whatsapp-image-2023-12-12-at-21.10.07.jpeg
 ---
 1st DFG Network Meeting 
 
