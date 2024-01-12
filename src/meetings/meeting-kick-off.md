@@ -29,70 +29,28 @@ Leuphana University of Lüneburg,
 Universitätsallee 1
 21335 Lüneburg 
 
-40.704 (Leuphana Central Building) 
+The first network meeting on "Disruptive Innovation & Temporality" hosted at Leuphana University of Lüneburg, marked a significant milestone in kicking off our research network at the intersection of time and innovation. Over two days, renowned experts and emerging scholars engaged in thought-provoking discussions and interactive sessions, unraveling the complexities of temporal dimensions in disruptive innovation processes.
 
 
 
-**WLAN Account:**
-
-* Name: disruptive
-* Code: 0808
+**Day 1 Highlights:**
 
 
 
-**Guests**
+•	Keynote by Raghu Garud: The workshop opened with a stimulating keynote by Raghu Garud, Professor of Management and Organization and the Farrell Chair in Innovation and Entrepreneurship, Pennsylvania State University, who masterfully set the stage with his talk on “A Temporal Perspective on Disruptive Innovation Processes”. Raghu Garud's insights into how the timing of innovations impacts their development and reception set a thoughtful tone for the day’s proceedings.
 
-* Annika Busse, Deputy CIO, Freie und Hansestadt Hamburg
-* Raghu Garud, Pennsylvania State University
-* Stefanie Gustafsson, University of Bath
-* Matthias Wenzel, Leuphana University Lüneburg
+•	Group Work I - Pitch Perfect: This session offered a unique platform for participants to present and learn about each other’s research in a concise format. Each participant pitched her/his work in five minutes, fostering an environment of dynamic exchange.
 
-**Day 0 (Sunday, December 10th, 2023)** 
-7pm - to open end
-Christmas market get-together (Lüneburg City) - Brunnen am Sande
+•	Keynote by Annika Busse: The afternoon session was led by Annika Busse, Deputy CIO, Freie und Hansestadt Hamburg, who delivered an impactful keynote on “Approaching Future Government - How to Accelerate Disruptive Innovation in the Public Sector”. Annika Busse emphasized the need for governmental agility in adapting to and fostering innovation, highlighting real-world challenges and opportunities.
 
-**Day 1 (Monday, December 11th, 2023, Lüneburg – 40.704 Central Building)** 
+•	World Café Group Work: The day concluded with an engaging World Café session, where participants split into three groups to develop research topics centered around 'Time-as-resource', moderated by Stefanie Habersang; 'Time-as-structure', led by Katharina Scheidgen; and 'Time-as-process', steered by Sarah Stanske. This collaborative exercise yielded a wealth of ideas, setting a solid groundwork for future research directions.
 
-09:00 - 09:15 am:	Coffee Talk and Arrival 
 
-09:15 - 09:45 am:	Kick-Off DFG Network
 
-09:45 - 11:00 am:	Key Note Raghu Garud + Discussion
-“Setting the Stage: A Temporal Perspective on Disruptive Innovation Processes” 
+**Day 2 Highlights:**
 
-11:00 - 11:30 am:	Coffee Break
+•	Keynote by Matthias Wenzel: Day two started with Matthias Wenzel, Professor of Organization Studies at Leuphana University, who held a keynote on “Futures and Disruptive Innovation Processes”. Matthias Wenzel’s talk delved into the prospective dimensions of disruptive innovations, urging a forward-thinking approach in both academic and practical realms. A key insight that emerged from his talk is that in an era of constant disruptions, the future is experienced as an open, temporal category that is not a given. Amidst ongoing crises, the future has become a problem for actors in organizations and society: Instead of being projected from the past, it needs to be actively “made”. A focus on “practices of future-making” helps us better understand how futures are created. Disruptions are a constitutive feature of these future-making practices.
 
-11:30 - 01:15 pm:	Group Work I - Pitch Perfect: Learn about the work of others
-			Short pitch of own research (max.5 minutes)
+•	Keynote by Stefanie Gustafsson: Stefanie Gustafsson, Associate Professor at the University of Bath, gave an enlightening talk on “Studying Disruptive Innovation Processes from a Temporal Perspective: Methodological Considerations”. She provided critical insights into the methodologies that can be employed to dissect and understand the temporal aspects of innovation, i.e., fast-paced ethnography.
 
-01:15 - 02:00 pm:	Lunch @ Klippo (Central Building)
-
-02:00 - 03:15 pm:	Key Note Annika Busse + Discussion 
-“Approaching Future Government -How to Accelerate Disruptive Innovation in the Public Sector”  
-
-03:15 - 03:30 pm:	Coffee Break
-
-03:30 - 05:00 pm: Group Work: World Café: Development of research topics/questions 			centered on the three lenses (2x30 min) 
-
-* Time-as-resource moderated by Stefanie Habersang 
-* Time-as-structure moderated by Katharina Scheidgen 
-* Time-as-process moderated by Sarah Stanske 
-* Summary/wrap-up (30 min) 
-
-07:00 - 10:00 pm:	Dinner @Mälzer Brau- & Tafelhaus (Heiligengeiststr. 43, 21335\
-                                   Lüneburg - *self-payment*)
-
-**Day 2 (Tuesday, December 12th, 2023, Lüneburg – 40.704 Central Building)** 
-
-09:00 - 10:15am:	Key Note Matthias Wenzel		
-Topic: Futures and Disruptive Innovation Processes
-
-10:15 - 10:30 am:	Coffee Break
-
-10:30 - 11:45 am: 	Keynote Stefanie Gustafsson + Discussion
-Topic: Studying Disruptive Innovation Processes from a Temporal Perspective : Methodological Considerations 
-
-11:45 - 01:30 pm:	Group Work III: Community Engagement 
-Suggestions for output (symposia, special issue...)
-
-01:30 - 02:15 pm:	Closing and Outlook
+•	Community Engagement Group Work: The final group work session focused on community engagement and brainstorming outputs such as symposia on conferences, i.e., AOM, EGOS and SMS, as well as potential special issue publications. This session highlighted the importance of disseminating research findings to a broader audience and underscored the collaborative spirit of the academic community.
