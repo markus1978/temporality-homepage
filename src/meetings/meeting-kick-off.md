@@ -16,8 +16,7 @@ abstract: >-
 
   K﻿eynote speakers: Raghu Garud, Annika Busse, Stefanie Gustafsson, Matthias Wenzel
 preview: /static/img/leuphana.jpg
-gallery:
-  - /static/img/campusmap.png
+gallery: []
 ---
 1st DFG Network Meeting 
 
