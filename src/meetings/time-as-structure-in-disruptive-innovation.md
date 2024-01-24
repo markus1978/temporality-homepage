@@ -21,7 +21,7 @@ We plan several interactive session to discuss theoretical and methodological ch
 
 Keynotes: Charlene Zietsma, Patrizia Klarner
 
-Preliminary agenda:
+***Preliminary agenda:***
 
 **Wednesday, April 17th**
 
