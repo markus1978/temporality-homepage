@@ -15,3 +15,24 @@ abstract: "The second meeting will be held at Georg-August-University Göttinge
   innovation processes?"
 preview: /static/img/göttingen_uni.jpg
 ---
+The second meeting will be held at Georg-August-University Göttingen and center around the time-as-structure lens in disruptive innovation with a particular focus on temporal patterns and temporal orientations. Building on the idea that disruptive innovations erupt temporal structures, and that the role of temporal structures becomes particularly visible when coordinating such innovation activities, the guiding question of this meeting is: How do actors engage in temporal brokering, navigate, and coordinate multiple, potentially conflicting temporal patterns and orientations in disruptive innovation processes?
+
+Keynotes: Charlene Zietsma, Patrizia Klarner
+
+Preliminary agenda:
+
+**Wednesday, April 17th**
+
+18.00-19.00 Walking tour around the famous “Stadtwall”
+
+19.30  Informal dinner
+
+**Thursday, April 18th**
+
+Programm from 9.00 to 18.00, including a scavenger hunt through Göttingen.
+
+19.30 Dinner
+
+Friday, April 19th
+
+Programm from 9.0 to 16.00, including a field trip to [Forum Wissen Göttingen](https://www.forum-wissen.de/).
