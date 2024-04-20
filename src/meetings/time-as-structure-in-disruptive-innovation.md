@@ -4,15 +4,17 @@ title: Time as structure in disruptive innovation
 date: 2024-04-18T11:02:06.233Z
 endDate: 2024-04-19T15:33:37.224Z
 location: Göttingen
-abstract: "The second meeting will be held at Georg-August-University Göttingen
-  and center around the time-as-structure lens in disruptive innovation with a
-  particular focus on temporal patterns and temporal orientations. Building on
-  the idea that disruptive innovations erupt temporal structures, and that the
-  role of temporal structures becomes particularly visible when coordinating
-  such innovation activities, the guiding question of this meeting is: How do
-  actors engage in temporal brokering, navigate, and coordinate multiple,
-  potentially conflicting temporal patterns and orientations in disruptive
-  innovation processes?"
+abstract: >-
+  The second meeting was held at Georg-August-University Göttingen and center
+  around the question: "How do actors engage in temporal brokering, navigate,
+  and coordinate multiple, potentially conflicting temporal patterns and
+  orientations in disruptive innovation processes?"
+
+
+  This meeting focussed on active engagement with ongoing research projects of network members and featured a field trip to Forum Wissen.
+
+
+  Keynote speakers: Charlene Zietsma, Patricia Klarner
 preview: /static/img/gruppenbild.jpg
 gallery:
   - /static/img/whatsapp-image-2024-04-20-at-17.15.25.jpeg
