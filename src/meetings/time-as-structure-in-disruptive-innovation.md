@@ -14,6 +14,8 @@ abstract: "The second meeting will be held at Georg-August-University Göttinge
   potentially conflicting temporal patterns and orientations in disruptive
   innovation processes?"
 preview: /static/img/gruppenbild.jpg
+gallery:
+  - /static/img/whatsapp-image-2024-04-20-at-17.15.25.jpeg
 ---
 The second meeting will be held at Georg-August-University Göttingen and center around the time-as-structure lens in disruptive innovation with a particular focus on temporal patterns and temporal orientations. Building on the idea that disruptive innovations erupt temporal structures, and that the role of temporal structures becomes particularly visible when coordinating such innovation activities, the guiding question of this meeting is: How do actors engage in temporal brokering, navigate, and coordinate multiple, potentially conflicting temporal patterns and orientations in disruptive innovation processes?
 
