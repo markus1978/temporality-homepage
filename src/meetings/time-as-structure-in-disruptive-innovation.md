@@ -20,26 +20,8 @@ gallery:
   - /static/img/whatsapp-image-2024-04-20-at-17.15.25.jpeg
   - /static/img/whatsapp-image-2024-04-20-at-17.16.07.jpeg
 ---
-The second meeting will be held at Georg-August-University Göttingen and center around the time-as-structure lens in disruptive innovation with a particular focus on temporal patterns and temporal orientations. Building on the idea that disruptive innovations erupt temporal structures, and that the role of temporal structures becomes particularly visible when coordinating such innovation activities, the guiding question of this meeting is: How do actors engage in temporal brokering, navigate, and coordinate multiple, potentially conflicting temporal patterns and orientations in disruptive innovation processes?
+The second meeting was held at Georg-August-University Göttingen and centered around the time-as-structure lens in disruptive innovation with a particular focus on temporal patterns and temporal orientations. Building on the idea that disruptive innovations erupt temporal structures, and that the role of temporal structures becomes particularly visible when coordinating such innovation activities, the guiding question of this meeting was: How do actors engage in temporal brokering, navigate, and coordinate multiple, potentially conflicting temporal patterns and orientations in disruptive innovation processes?
 
-We plan several interactive session to discuss theoretical and methodological challenges of ongoing research projects of our network members as well as keynotes, a field trip and a social event.
+In several interactive sessions,  we discussed theoretical and methodological challenges of ongoing research projects of our network members. Our lively discussion was further facilitated by inspiring keynotes by Charlene Zietsma on *Temporal Discordances in Disruptive Innovation* and Patricia Klarner on *Developments in Temporality Research and Outlooks on the Field—Where are we going?*
 
-Keynotes: Charlene Zietsma, Patrizia Klarner
-
-***Preliminary agenda:***
-
-**Wednesday, April 17th**
-
-18.00-19.00 Walking tour around the famous “Stadtwall”
-
-19.30  Informal dinner
-
-**Thursday, April 18th**
-
-Programm from 9.00 to 18.00, including a scavenger hunt through Göttingen.
-
-19.30 Dinner
-
-**Friday, April 19th**
-
-Programm from 9.0 to 16.00, including a field trip to [Forum Wissen Göttingen](https://www.forum-wissen.de/).
+To bring forward the network-element of our research network, we took a tour around the famous "Stadtwall", went on a scavenger hunt through Göttingen to identify elements of temporality, disruption and innovation within the city, and visited [Forum Wissen Göttingen](https://www.forum-wissen.de/), a museum on the facets of scientific processes. Fittingly, this museum portrayed "waiting" as key element of the research process, nicely linking the process of how we conduct research to temporarlity—which is also the content of our research.
