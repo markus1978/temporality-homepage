@@ -11,7 +11,7 @@ abstract: >-
   orientations in disruptive innovation processes?"
 
 
-  This meeting focussed on active engagement with ongoing research projects of network members and featured a field trip to Forum Wissen.
+  This meeting focussed on active engagement with ongoing research projects of network members and featured a field trip to Forum Wissen. Klick here to find out more.
 
 
   Keynote speakers: Charlene Zietsma, Patricia Klarner
