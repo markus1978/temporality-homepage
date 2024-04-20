@@ -5,10 +5,11 @@ date: 2023-12-11T18:40:03.123Z
 endDate: 2023-12-12T12:33:21.536Z
 location: Lüneburg
 abstract: >-
-  This meeting centered around the question “How does our network understand
-  disruptive innovation processes from a temporal perspective?” The goal of this
-  meeting was to set the conceptual foundations and bring together different
-  understandings of temporality and disruptive innovation.
+  This meeting was held at Leuphana University Lüneburg and centered around the
+  question “How does our network understand disruptive innovation processes from
+  a temporal perspective?” The goal of this meeting was to set the conceptual
+  foundations and bring together different understandings of temporality and
+  disruptive innovation.
 
 
   It marked a significant milestone for our research network. You can find a summary of the highlights here.
