@@ -7,16 +7,12 @@ location: "Copenhagen "
 abstract: >-
   The third meeting was held at Copenhagen Business School, Denmark and centered
   around the time-as-process lens in disruptive innovation with a particular
-  focus on temporality and its past-present-future relation. Discussing the
-  question of “how do actors enact continuity and change in innovation processes
-  by drawing on the past and the future in the light of present actions?" will
-  helped us to critically reflect on the term “disruption” which has largely
-  foregrounded the notion of radical newness when speaking about re-ordering
-  existing systems. In contrast, a time as a process lens elucidates the pivotal
-  role of the past and investigates how a return to past values and norms might
-  help equally to break from current patterns. Such considerations are also
-  important on a societal level as they offer new ways of thinking on how
-  organizations can address today’s wicked problems, such as climate change. 
+  focus on temporality and its past-present-future relation. A time as a process
+  lens elucidates the pivotal role of the past and investigates how a return to
+  past values and norms might help equally to break from current patterns. Such
+  considerations are also important on a societal level as they offer new ways
+  of thinking on how organizations can address today’s wicked problems, such as
+  climate change. 
 
 
   Keynote Speakers: Majken Schultz, Raghu Garud, Christian Bason
