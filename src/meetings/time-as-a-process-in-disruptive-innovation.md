@@ -28,9 +28,7 @@ Day 1:
 
 In several interactive sessions, we discussed ongoing research projects at the intersection of temporality and disruption of our network members. We also crafted a more detailed idea on the Special Issue that will be developed as an outcome of the network.
 
-Our lively discussion was further facilitated by an inspiring keynote by **Majken Schultz** on the role of the past in innovating for the future. Using @Carlsberg as an example, Majken led a deep dive into the company’s history and how it has mobilized its past to innovate the craft of brewing. Majken challenged the common focus on the future by highlighting the importance of continuously reinterpreting the past to move forward:  
-
-„The novelty of every future demands a novel past!” (Mead, 1932)
+Our lively discussion was further facilitated by an inspiring keynote by **Majken Schultz** on the role of the past in innovating for the future. Using Carlsberg as an example, Majken led a deep dive into the company’s history and how it has mobilized its past to innovate the craft of brewing. Majken challenged the common focus on the future by highlighting the importance of continuously reinterpreting the past to move forward:  „The novelty of every future demands a novel past!” (Mead, 1932)
 
 To bring forward the network-element of our research network, this talk was followed by an amazing tour through Carlsberg City, exploring both the disruptive past and future of this iconic brand.
 
